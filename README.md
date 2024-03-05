@@ -2,9 +2,6 @@
 
 🦊 I am a student from Samara. Don't ask me how I got my degree <br>
 🤡 I am completely unable to code because I'm too dumb, but I surely do love C# and Unity! (python lovers in shambles) <br>
-🥰 Learn more about my field of work in AltHub Project's Discord
-
-[![Discord](https://img.shields.io/discord/739119342393884752?label=AltHub%20Project%20//%20Discord&logo=discord&logoColor=white&style=for-the-badge)](https://link.althub.pro/discord)
 
 <!--
 **IMWWTM/IMWWTM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
